@@ -1,8 +1,8 @@
 {
-    "name": "@MBLHarrison/cool-text",
+    "name": "@mitcheh/cool-text",
     "version": "0.1.0",
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "ef7d3b2668683bf1595ab3110f6a119314242d32"
+    "gitHead": "68f5008907636fa284cc468e4276bf32c87a1984"
 }
