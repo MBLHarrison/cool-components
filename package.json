@@ -19,6 +19,6 @@
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o ./output",
-    "install-deps": "(cd components/cool-text && npm i);"
+    "install-deps": "(cd components/cool-text && npm i && cd ..);"
   }
 }
