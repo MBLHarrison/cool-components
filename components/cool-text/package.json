@@ -4,5 +4,9 @@
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "68f5008907636fa284cc468e4276bf32c87a1984"
+    "gitHead": "68f5008907636fa284cc468e4276bf32c87a1984",
+    "dependencies": {
+        "@coopdigital/foundations-vars": "^3.1.2",
+        "@coopdigital/foundations-colors": "^2.1.3"
+    }
 }
