@@ -4,5 +4,16 @@
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "68f5008907636fa284cc468e4276bf32c87a1984"
+    "gitHead": "68f5008907636fa284cc468e4276bf32c87a1984",
+    "dependencies": {
+        "@coopdigital/component-notification": "^1.0.8",
+        "@coopdigital/component-notification--alert": "^1.0.9",
+        "@coopdigital/foundations-buttons": "^2.1.3",
+        "@coopdigital/foundations-colors": "^2.1.3",
+        "@coopdigital/foundations-forms": "^3.1.3",
+        "@coopdigital/foundations-global": "^3.1.3",
+        "@coopdigital/foundations-layout": "^3.1.3",
+        "@coopdigital/foundations-typography": "^4.1.3",
+        "@coopdigital/foundations-vars": "^3.1.2"
+    }
 }
